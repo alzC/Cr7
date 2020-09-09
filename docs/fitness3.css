@@ -140,10 +140,10 @@ section .imgBx img{
     top: 40px;
     right:40px;
     width: 30px;
-    height: 30px;
+    height: 80px;
     background: url("menu.png");
     filter: invert(1);
-    background-size: 30px;
+    background-size: 50px;
     cursor: pointer;
     background-repeat: no-repeat;
     z-index: 1000;
