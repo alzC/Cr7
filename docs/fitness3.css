@@ -170,11 +170,15 @@ section .imgBx img{
     padding: 50px;
   }
   .nav.active{
-    left: 0;
-
+    left: 45%;
+  }
+  .nav.active li{
+    padding:35px;
+    font-size:45px;
   }
   .nav li{
     margin-top:5px 0;
+    
   }
   section{
     flex-direction: column-reverse;
